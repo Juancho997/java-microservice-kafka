@@ -1,4 +1,4 @@
-package com.juanbonino.demo;
+package com.juanbonino;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
